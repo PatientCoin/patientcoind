@@ -1,3 +1,6 @@
 [submodule "thirdparty/uvw"]
 	path = thirdparty/uvw
-	url = https://github.com/skypjack/uvw.git
+	url = https://github.com/PatientCoin/uvw.git
+[submodule "thirdparty/spdlog"]
+	path = thirdparty/spdlog
+	url = https://github.com/gabime/spdlog.git
